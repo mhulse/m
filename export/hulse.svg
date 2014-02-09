@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata></metadata>
+<defs>
+<font id="hulse" horiz-adv-x="0" >
+<font-face units-per-em="1000" ascent="999" descent="-1" />
+<missing-glyph horiz-adv-x="500" />
+<glyph />
+<glyph horiz-adv-x="333" />
+<glyph />
+<glyph />
+<glyph unicode="&#xd;" />
+<glyph unicode=" " />
+<glyph unicode="." />
+<glyph unicode="/" />
+<glyph unicode=":" />
+<glyph unicode="@" />
+<glyph unicode="C" />
+<glyph unicode="E" />
+<glyph unicode="H" />
+<glyph unicode="I" />
+<glyph unicode="K" />
+<glyph unicode="L" />
+<glyph unicode="M" horiz-adv-x="1699" d="M0 929v70h204q81 0 138 -57t57 -138v-146l16 24t42 55t64.5 72.5t80 65t91.5 43.5q40 10 76 10q74 0 131 -42q86 -64 86 -186v-41q12 17 19 28t42 54t65.5 72.5t77.5 61.5t90 43q40 10 76 10q74 0 131 -42q86 -64 86 -186v-506q0 -52 37 -88.5t89 -36.5v-70h-204 q-81 0 -138.5 57t-57.5 138v280q0 65 -45.5 111t-110.5 46q-64 0 -109.5 -44t-47.5 -107v-286q0 -52 37 -88.5t89 -36.5v-70h-204q-81 0 -138 57t-57 138v280q0 65 -46 111t-111 46t-111 -46t-46 -111v-280q0 -52 37 -88.5t89 -36.5v-70h-204q-81 0 -138.5 57t-57.5 138v610 q0 52 -36.5 88.5t-88.5 36.5z" />
+<glyph unicode="O" />
+<glyph unicode="P" />
+<glyph unicode="S" />
+<glyph unicode="T" />
+<glyph unicode="U" />
+<glyph unicode="Y" />
+<glyph unicode="c" />
+<glyph unicode="e" />
+<glyph unicode="h" />
+<glyph unicode="i" />
+<glyph unicode="k" />
+<glyph unicode="l" />
+<glyph unicode="m" horiz-adv-x="1000" d="M0 499q0 136 67 251t182 182t251 67t251 -67t182 -182t67 -251t-67 -251t-182 -182t-251 -67t-251 67t-182 182t-67 251zM169 680q20 0 34.5 -14t14.5 -34v-238q0 -32 22 -54t54 -22h80v27q-20 0 -34.5 14.5t-14.5 34.5v109q0 25 17.5 43t43.5 18q25 0 43 -18t18 -43 v-109q0 -32 22.5 -54t53.5 -22h79v27q-20 0 -34.5 14.5t-14.5 34.5v111q2 25 19 42t42 17q26 0 43.5 -18t17.5 -43v-109q0 -32 22.5 -54t53.5 -22h80v27q-20 0 -34.5 14.5t-14.5 34.5v197q0 47 -34 72q-23 17 -51 17q-14 0 -29 -4q-9 -2 -18 -6.5t-17 -10t-16 -12t-14.5 -13 t-13 -13.5t-12 -13t-10 -12.5t-7 -10t-4.5 -7.5l-3 -3v16q1 47 -33 72q-23 17 -52 17q-14 0 -29 -4q-27 -7 -55.5 -32.5t-43.5 -47.5l-15 -21v57q0 32 -22.5 54t-53.5 22h-80v-28z" />
+<glyph unicode="o" />
+<glyph unicode="p" />
+<glyph unicode="s" />
+<glyph unicode="t" />
+<glyph unicode="u" />
+<glyph unicode="y" />
+<glyph unicode="&#x25fc;" horiz-adv-x="500" d="M0 0z" />
+</font>
+</defs></svg> 
